@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: ddeed48163f82274d9d9e0ccb38b0915
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - player: {instanceID: 0}
+  - scoreManager: {instanceID: 0}
+  - backgroundSound: {instanceID: 0}
+  - deathSound: {instanceID: 0}
+  - groundGenerator: {instanceID: 0}
+  - largeGround: {instanceID: 0}
+  - mediumGround: {instanceID: 0}
+  - gameOverScreen: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
