@@ -1,11 +1,11 @@
 # FirstGame
 
-This clone is made while I was learning react and redux.
+A simple and endless 2D running game on platforms of different shapes and sizes. Players can earn more and more coins by controlling and showing his/her skills by killing enemies and saving them from falling down.
 
 ## Tech Stack
-1) ReactJS
-2) Redux (for state management)
-3) Firebase (for deployment and database)
+1) C++
+2) C# (For background Scripts) 
+3) ASP.NET
 
 ## Deployment
 <a target="_blank" href = "https://play.google.com/store/apps/details?id=com.Krishna.FarRun">Play Store Link</a>
@@ -26,7 +26,7 @@ This clone is made while I was learning react and redux.
 <br>
 
 <div align = "left">
-  <img src="https://raw.githubusercontent.com/manglam16/amazon-clone/main/screenshots/Screenshot%20(153).png">
+  <img src="https://github.com/krishna2332002/Jungle-Run-2/blob/master/FarSS/Screenshot_2023-01-04-18-54-19-677_com.miui.videoplayer.jpg">
 </div>
 
 <br>
